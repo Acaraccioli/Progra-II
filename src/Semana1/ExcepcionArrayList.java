@@ -35,7 +35,7 @@ public class ExcepcionArrayList {
       }
         //mod aluno pos 3
         als.get(3).setNombre("Xiomi");
-        
+        System.out.println("Hola");
         
     }
 }
